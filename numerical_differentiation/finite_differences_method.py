@@ -4,6 +4,8 @@ Section: Numerical Differentiation
 Course: Programming Numerical Methods in Python
 Date: Aug. 19, 2021
 
+The finite differences method is based on the idea of finding the slope of a line connecting two consecutive data points.
+
 Theoretically, the finite differences approximation is derived from Taylor’s series expansion of f(x).
 The expansion of f(xi+1)can be written as:
 
